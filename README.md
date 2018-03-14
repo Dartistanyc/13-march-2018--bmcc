@@ -4,9 +4,9 @@ During class today, you were given your username and password to access the MMP 
 
 Launch FileZilla and use the aforementioned credentials as follows:
 
-**Host**: `mmp.bmcc.cuny.edu` . 
-**Username**: `Your username` . 
-**Password**: `Your password` . 
+**Host**: `mmp.bmcc.cuny.edu`  
+**Username**: `Your username`  
+**Password**: `Your password`  
 **Port**: `Leave blank`
 
 The URL to the root folder of your account is [`http://mmp.bmcc.cuny.edu/YOUR_USERNAME`](http://mmp.bmcc.cuny.edu/YOUR_USERNAME).
